@@ -10,7 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Exponential expression" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
